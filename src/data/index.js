@@ -1,7 +1,7 @@
-import project1 from '../assets/projects/project-1.jpg'
+import project1 from '../assets/projects/project-1.png'
 import project2 from '../assets/projects/project-2.jpg'
-import project3 from '../assets/projects/project-3.jpg'
-import project4 from '../assets/projects/project-4.jpg'
+import project3 from '../assets/projects/project-3.png'
+import project4 from '../assets/projects/project-4.png'
 
 
 export const INTRO = `I am a passionate front-end developer with a talent for crafting engaging and responsive web applications. I have honed my skills in front-end technologies, particularly React and Next.js. My goal is to leverage my expertise to create innovative solutions that deliver exceptional user experiences and drive business growth.`;
@@ -53,7 +53,7 @@ export const EXPERIENCES = [
       image: project4,
       description:
         "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-      technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      technologies: ["HTML", "CSS", "React.js","Firebase"],
     },
   ];
 
